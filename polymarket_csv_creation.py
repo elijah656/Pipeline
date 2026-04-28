@@ -13,7 +13,7 @@ FOOTBALL_DATA_SOURCES = [
         "url": "https://www.football-data.co.uk/mmz4281/2526/E0.csv",
     },
 
-    # Später kannst du einfach weitere hinzufügen:
+    # Weitere Dateien auswerten (z. B. Bundesliga 25/26):
     # {
     #     "country": "Germany",
     #     "league": "Bundesliga",
